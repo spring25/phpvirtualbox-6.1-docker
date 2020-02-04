@@ -2,6 +2,9 @@
 
 This is a fork of [clue/phpvirtualbox](https://hub.docker.com/r/clue/phpvirtualbox/), because it is not very up to date and there are no further configuration options.
 
+It is a further fork of  [jazzdd86/phpvirtualbox](https://hub.docker.com/r/jazzdd86/phpvirtualbox/), because I wanted to get it working with Virtualbox 6.1
+
+
 ## phpVirtualBox
 
 [phpVirtualBox](http://sourceforge.net/projects/phpvirtualbox/) is a modern web interface that allows you to control remote VirtualBox instances - mirroring the VirtualBox GUI.
