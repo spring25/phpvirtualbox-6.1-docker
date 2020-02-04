@@ -2,7 +2,7 @@
 
 This is a fork of [clue/phpvirtualbox](https://hub.docker.com/r/clue/phpvirtualbox/), because it is not very up to date and there are no further configuration options.
 
-It is a further fork of  [jazzdd86/phpvirtualbox](https://hub.docker.com/r/jazzdd86/phpvirtualbox/), because I wanted to get it working with Virtualbox 6.1
+It is a further fork of  [jazzdd86/phpvirtualbox](https://hub.docker.com/r/jazzdd86/phpvirtualbox/), because I wanted to get it working with Virtualbox 6.1. It thus uses the active development branch of phpvirtualbox.
 
 
 ## phpVirtualBox
